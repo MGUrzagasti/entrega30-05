@@ -1,0 +1,30 @@
+.container{
+    padding: 10px;
+    
+}
+
+h1{
+    font-family: 'Mulish' 'bold ';
+    font-size: 49pt;
+    color: #04146c;
+}
+
+.card-title{
+    font-family: 'Mulish' ;
+    font-size: 30pt;
+    color:  #0a2ff1;
+    padding: 10px;
+}
+.card-title1 h6{
+    font-family: 'Mulish' bold ;
+    font-size: 18pt;
+    color:  #04146c;
+}
+p{
+    font-family: 'Mulish'  ;
+    font-size: 18pt;
+    color:  #04146c;
+}
+.card{
+    border: none;
+}

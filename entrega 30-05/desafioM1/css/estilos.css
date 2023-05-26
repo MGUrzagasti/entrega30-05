@@ -1,0 +1,46 @@
+
+
+
+
+
+.titulo{
+   
+    text-align: center;
+    font-family: 'Mulish' 'bold';
+    font-size: 40pt;
+    color: #3957f1 ;
+}
+h2{
+    text-align: center;
+    font-family: 'Mulish' 'Regular';
+    font-size: 21pt;
+    color: #15163d;
+    
+}
+h3{
+    text-align: center;
+    font-family: 'Mulish' 'Regular';
+    font-size: 21pt;
+    color: #15163d;
+}
+h4{
+    text-align: center;
+    font-family: 'Mulish' 'Regular';
+    font-size: 21pt;
+    color: #15163d;
+}
+h5{
+    text-align: center;
+    font-family: 'Mulish' 'Regular';
+    font-size: 21pt;
+    color: #15163d;
+}
+.h1{
+    text-align: center;
+    font-family: 'Mulish' 'bold';
+    font-size: 68pt;
+    color: #3957f1 ;
+}
+img{
+    width: 100%;
+}

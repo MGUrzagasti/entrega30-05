@@ -1,0 +1,17 @@
+
+.card-title{
+    font-family: 'Source Sans Pro';
+    font-size: 62pt;
+    color:  #04146c;
+}
+.img{
+    width: 100%;
+height: max-content;
+}
+
+.p{
+    font-family: 'Source Sanss';
+    font-size: 16pt;
+    color:  #04146c;
+    
+}

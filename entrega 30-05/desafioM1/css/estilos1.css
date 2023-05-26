@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Mulish' 'bold';
+    font-size: 68pt;
+    color: #3957f1;
+}
+
+
+
+  
+
+
+
+.c-img{  
+    position: relative;
+    display: flex;
+    padding: 5px;
+    align-items: end;
+    
+   
+     
+}
+.txt{
+ 
+    position: absolute;
+    font-family: 'Mulish' ;
+    color: white;
+}
+img{
+    width: 100%;
+}
